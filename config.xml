@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.metallist.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. www.kovka-metalla.ru</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/c51eb78645ad0f08bd7cfd3d4f2fca7d.png" density="xxhdpi" />
         <icon src="res/android/icon/463f1f79b8953c6e810527ad5efbf94c.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/e63a180a9fec0f25af1f28d89c4628a6.png" density="port-hdpi"/>
-        <splash src="res/android/screen/46e3b39184f84a6ad13a1a2acf3eaf59.png" density="port-ldpi"/>
-        <splash src="res/android/screen/cb616774e8ed558b31665e73b4543e64.png" density="port-mdpi"/>
-        <splash src="res/android/screen/2aee58dcd95a125029f2789514a3dbd0.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/3b4105cd90374db8f6b71216a499fcf1.png" density="port-hdpi"/>
+        <splash src="res/android/screen/dca6cf7b127945b563f555d4144020e9.png" density="port-ldpi"/>
+        <splash src="res/android/screen/1d30b28ec98c0068bcf208b0a332cbc7.png" density="port-mdpi"/>
+        <splash src="res/android/screen/3e42979e11468b26afbbf116b8bd8d2c.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
@@ -69,12 +69,12 @@
         <icon src="res/ios/icon/2da2a00a11bc6f2668577838d4c82eb4.png" width="87" height="87" />
         <icon src="res/ios/icon/3a4448ffd6f7830f9a1eb0635a4d796b.png" width="167" height="167" />
 
-        <splash src="res/ios/screen/16b8984ae122a21ee0cceeeb22917229.png" />
-        <splash src="res/ios/screen/a2fb04309c0945c8513f30760705f18b.png" />
-        <splash src="res/ios/screen/181be6d03f62ffffe53fde124708e3bb.png" />
-        <splash src="res/ios/screen/6e39191f701ccfc528bd67f8593eeda6.png" />
-        <splash src="res/ios/screen/51c4f908f16daee3317227d9cdd6212a.png" />
-        <splash src="res/ios/screen/ec83f0d881ad71d340a8eda451414a42.png" />
+        <splash src="res/ios/screen/4d291fd83c17cc73ea488fa44ad5b218.png" />
+        <splash src="res/ios/screen/e28abd18d609cc30f663bb514a184730.png" />
+        <splash src="res/ios/screen/feb24e37b3cd1a602e7f126f817ea9e4.png" />
+        <splash src="res/ios/screen/1fee4bbdab43aa1b5f86dfaea7617542.png" />
+        <splash src="res/ios/screen/800eb8ae0728686d38bd8b4cad3445f0.png" />
+        <splash src="res/ios/screen/1f708c1d26423fd5568fbbe4e46f22f0.png" />
     </platform>
 
     <platform name="winphone">
